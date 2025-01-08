@@ -89,7 +89,7 @@ a:hover {
 }
 
 .pic {
-    background-image: img/00.bg.jpg);
+    background-image: url(img/00.bg.jpg);
     background-size: cover;
     background-position-y: 360px;
 }
